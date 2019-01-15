@@ -5,7 +5,7 @@ A python project to build a neural network model in order to predict the program
 # Use Deep Learning To Detect Programming Languages
 
 **`10-17-2018`**<br>
-**`BlueOptima Data challenge - Dhiraj Tripathi, Rutgers University , Masters of IT & Analytics 2017-18`**<br>
+**`- Dhiraj Tripathi, Rutgers University , Masters of IT & Analytics 2017-18`**<br>
 **`email: dhiraj.tripathi@rutgers.edu`**<br>
 
 `
